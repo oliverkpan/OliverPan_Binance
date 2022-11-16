@@ -1,7 +1,9 @@
 # OliverPan_Binance
 
-[Github](https://github.com/oliverkpan)
+Thank you Binance team for viewing my submission for the Data Scientist Internship. Please reach out if there are any questions!
 
-[Kaggle](https://www.kaggle.com/oliverpan)
+[Github Profile](https://github.com/oliverkpan)
 
-Please note, that I was unable to recieve a leadership ranking for my submission, due to the competition being closed.
+[Kaggle Profile](https://www.kaggle.com/oliverpan)
+
+Please note, that I was unable to recieve a leaderboard ranking for my submission, due to the competition being closed.
